@@ -1,0 +1,14 @@
+JavaScript Fundamentals for Automation Testing:
+
+JavaScript HelloWorld Program   (done)
+Declaring the variables in JavaScript   (done)
+Understanding the Datatypes in JavaScript   (done)
+Loops and Conditions in JavaScript  (done)
+Logical operators and Assignments in JS (done)
+
+Arrays and its methods with detailed examples
+Functions in JavaScript
+Understanding var, let, const keywords in JS
+String and its related functions in JS
+What are JavaScript Objects?
+Classes and its Properties, Methods in JavaScript
