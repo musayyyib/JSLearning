@@ -24,8 +24,10 @@ console.log(a2)
 let value = true
 console.log(value)
 console.log(typeof(value))
+console.log(!value) //this is only applicable on boolean not on anyother thing
 
 c = a + a2
 console.log(c)
 
 // we cannot redeclare variable with let KW but possible with var
+
