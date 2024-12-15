@@ -28,3 +28,8 @@ for(let i=0; i<array2.length; i++)
 {
     console.log(array2[i])
 }
+
+let num = [1, 2, 3, 4]
+let poppedElement = num.pop()   //.pop is returning the popped element
+console.log(num, poppedElement) // printing both the updated orignal array and the popped element
+
