@@ -5,8 +5,8 @@ Declaring the variables in JavaScript   (done)
 Understanding the Datatypes in JavaScript   (done)
 Loops and Conditions in JavaScript  (done)
 Logical operators and Assignments in JS (done)
+Arrays and its methods with detailed examples (done)
 
-Arrays and its methods with detailed examples
 Functions in JavaScript
 Understanding var, let, const keywords in JS
 String and its related functions in JS
